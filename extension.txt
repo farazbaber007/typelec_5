@@ -1,0 +1,13 @@
+Install these extensions in your VS code for better coding experience
+Bracket pair colorizer
+better Comments
+Snippets
+CSS Peak
+Prettier
+Relative Path
+GitLens
+Material Theme
+
+and also my fav jelly fish Theme
+ Auto Save on
+ 
